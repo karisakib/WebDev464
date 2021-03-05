@@ -1,21 +1,22 @@
 import logo from './logo.svg';
+import yourname from './yourname.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={yourname} className="App-logo" alt="logo" />
         <p>
           My name is Kari Sakib and I'm going to master React!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/karisakib"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Check Me Out!
         </a>
       </header>
     </div>
